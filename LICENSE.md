@@ -1,3 +1,5 @@
+Second try to add LICENSE.md
+
 MIT License
 
 Copyright (c) 2022 joeriec
